@@ -4,7 +4,7 @@ import requests
 import json
 
 # --- CONFIGURATION ---
-API_URL = "http://127.0.0.1:8000/strategy"
+API_URL = "https://assessment-recommendation-system.onrender.com/strategy"
 
 # Page Configuration
 st.set_page_config(
