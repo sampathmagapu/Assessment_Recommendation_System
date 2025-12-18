@@ -4,7 +4,7 @@ import requests
 import json
 
 # --- CONFIGURATION ---
-API_URL = "https://assessment-recommendation-system.onrender.com/strategy"
+API_URL = "https://sampathm11-assessment-recomendation-system.hf.space/strategy"
 
 # Page Configuration
 st.set_page_config(
