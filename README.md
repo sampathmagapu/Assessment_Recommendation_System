@@ -10,8 +10,8 @@ A GenAI-powered recommendation system that selects the best SHL talent assessmen
 ---
 
 ## 🔗 Live Demo
-* **API Endpoint:** `[INSERT YOUR RENDER URL HERE]/docs`
-* **Frontend UI:** `[INSERT YOUR STREAMLIT URL IF DEPLOYED]`
+* **API Endpoint:** `https://sampathm11-assessment-recomendation-system.hf.space/recommend`
+* **Frontend UI:** `https://assessmentrecommendationsystem-shl-sampathm.streamlit.app/`
 
 *(Note: The API is hosted on Render. Please allow 30-50 seconds for the free instance to spin up.)*
 
